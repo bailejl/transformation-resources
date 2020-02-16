@@ -18,6 +18,7 @@
 
 # Videos
 
+## The Secrets of High Performing Technology Organizations
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=RJz1GlClG1M
 " target="_blank"><img src="http://img.youtube.com/vi/RJz1GlClG1M/0.jpg" 
 alt="The Secrets of High Performing Technology Organizations" width="240" height="180" border="10" /></a>
