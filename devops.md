@@ -2,19 +2,31 @@
 
 # Books
 
+There are a tons of books on DevOps, this is only a few based I have read or are looking to read.
+
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
+  - Great book for people wanting to learn how to implement DevOps within an organization.
 - [Accelerate: Building and Scaling High-Performing Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate)
+  - From the team who does the State of DevOps reports.  This gets into the details behind the report.  I love the report, 
+  but have only scratched the surface of this book.  Thus, I cannot comment on it.
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+  - A DevOps book written in novel form showing the pains of a non-DevOps world impacting the strategically important 
+  business software project.  
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery)
+  - This is my guideline for how I create a CD pipeline.  I highly recommend this book.
 - [Site Reliability Engineering: How Google Runs Production Systems](https://www.goodreads.com/book/show/27968891-site-reliability-engineering)
+  - A great look into the SRE world, which pre-dates DevOps.  What I really like about this book when I first read it, is two things.
+  One, it was a concrete example of one way to do DevOps.  Two, how they aligned every group to work towards the same goal, which broke down silos.
 - [The Unicorn Project](https://www.goodreads.com/book/show/44333183-the-unicorn-project)
+  - I am currently reading this book.  At one point in my reading, I wanted to roll up in corner when Maxine has issues
+   getting her tickets resolved, so she can do work.
+  This just reminded me of the time, a project required over 300 tickets to get our system and environments built.
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/en/book/show/44135420-team-topologies)
-- [Lessons in It Transformation: Technology Expert to Business Leader](https://www.goodreads.com/book/show/12867664-lessons-in-it-transformation) 
-- [Hello Startup](https://www.goodreads.com/book/show/26457143-hello-startup)
+  - I have not read yet, but have been a user of the DevOps Topologies website for years.  Look forward to reading the book.
+- [Hello Startup](https://www.hello-startup.net/)
+  - This is not a "DevOps" book exactly, but it covers much more with a section relevant to DevOps.  Note, the author is the founder of [Gruntwork](https://gruntwork.io/) a company focusing on DevOps
 - [Terraform Up & Running](https://www.terraformupandrunning.com/)
-- [Title](URL)
-- [Title](URL)
-- [Title](URL)
+  - A book by the founder of Hello Startup.  I have not read the book, so I cannot comment on it.
 
 # Videos
 
@@ -82,7 +94,7 @@ alt="John Willis - «Devops' Seven Deadly Diseases»" width="240" height="180" b
 # Websites
 
 - [DevOps Topologies](https://web.devopstopologies.com/)
-- [Hello Startup](https://www.goodreads.com/book/show/26457143-hello-startup)
+- [Hello Startup](https://www.hello-startup.net/)
 - [Title](URL)
 - [Title](URL)
 - [Title](URL)
