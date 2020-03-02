@@ -53,8 +53,8 @@ Tom Chi is new to me, but has great experience in delivering some well known pro
 customer focused, which I love.  Having been in organizations where product managers cannot interact with the user or 
 customer.  Tom's video is the complete opposite, he engages with users multiple times a week with software updates. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=wINoHEXJ2
-" target="_blank"><img src="http://img.youtube.com/vi/wINoHEXJ2/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wINoHEXJ2-M
+" target="_blank"><img src="http://img.youtube.com/vi/wINoHEXJ2-M/0.jpg" 
 alt="Rapid Prototyping & Product Management by Tom Chi at Mind the Product San Francisco" width="240" height="180" border="10" /></a>
 
 ## Y Combinator & Standford University - How to Start a Startup 2014
