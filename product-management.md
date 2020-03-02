@@ -57,6 +57,22 @@ customer.  Tom's video is the complete opposite, he engages with users multiple 
 " target="_blank"><img src="http://img.youtube.com/vi/wINoHEXJ2/0.jpg" 
 alt="Rapid Prototyping & Product Management by Tom Chi at Mind the Product San Francisco" width="240" height="180" border="10" /></a>
 
+## Y Combinator & Standford University - How to Start a Startup 2014
+
+This is series of videos come from Y Combinator and Standford University.  Y Combinator is a startup accelerator, which
+trains startups to get their product off the ground.  There are several videos related to product management and a 
+few specific to startups. If your business is under threat from startups, then you might want to these videos to 
+understand how they possibly think and work.     
+
+https://www.youtube.com/playlist?list=PLQ-uHSnFig5MaafmEhFox7rO-b0RxQth-
+
+## Y Combinator & Standford University - Startup School Online 2017
+
+This is an extension of the previous video set.  I have not watched them fully yet, but if they are any good as the 
+earlier set, then they will be free gold. 
+
+https://www.youtube.com/playlist?list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17
+
 # Websites
 
 - [Marty Cagan's SVPG Company](https://svpg.com/articles/)
